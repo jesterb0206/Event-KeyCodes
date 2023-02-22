@@ -15,11 +15,11 @@
 
 <br>
 
-![Event KeyCodes]()
+![Event KeyCodes](images/event-key-codes.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Event-KeyCodes/)
 
 <br>
 
